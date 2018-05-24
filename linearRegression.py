@@ -35,3 +35,4 @@ y22 = np.array(csv22.iloc[:,4])
 
 score = res.score(Xn22,y22)
 print(score)
+
